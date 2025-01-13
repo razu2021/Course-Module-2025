@@ -107,3 +107,101 @@
 > - Create a Small Project  
 
 <!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 07** Color , CSS  </mark>
+### HTML Color  & CSS  
+> - What is CSS     
+> - What is Inline CSS     
+> - What is Internal CSS     
+> - What is External CSS     
+> - How To link External CSS file with HTML file 
+> - Create a Small Project  
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 08** Class , Id  </mark>
+### HTML Class & Id  
+> - What is Class & How to use Class    
+> - What is ID & how to use Id      
+> - What's the difference between Class & ID ? 
+> - Create a Small Project  
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 09** Semantics Tag , list Tag , Div tag   </mark>
+### HTML Class & Id  
+> - What is the Semantics tag & Why use this Tag    
+> - What is the list tag      
+> - What is the Div Tag 
+> - Create a Small Project  
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 10** HTML Table    </mark>
+### HTML HMTL Table  
+> - HTML Table  
+> - Table Border 
+> - Table Size
+> - Table Headers
+> - Padding & Specing 
+> - colspan & rowspan 
+> - Table Styling
+> - Table Colgroup 
+ 
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 11** HTML Form    </mark>
+### HTML HMTL Form  
+> - HTML Form  
+> - HTML Form Attribute 
+> - HTML Form Elements 
+> - HTML Form input Type 
+> - HTML Form input Attribute 
+
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 12** HTML Media</mark>
+### HTML HMTL Media  
+> - HTML Audio  
+> - HTML Video 
+> - HTML Embed 
+> - HTML iframes
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 13** Email Signature Design</mark>
+### Email Signature   
+> - HTML Email Signature Design   
+
+
+<!-- class no end hre  -->
