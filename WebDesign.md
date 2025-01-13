@@ -17,8 +17,8 @@
 
 <!-- class number start here  -->
 
-- <mark> **Class : 01** </mark>
-> - hfdf
-> - hfdf
+- <mark> **Class : 01**  Introduction to Web Design</mark>
+> - What is Web Desing
+> - Why Should you Learn  Web Design 
 
 <!-- class no end hre  -->
