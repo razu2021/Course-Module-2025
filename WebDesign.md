@@ -18,7 +18,35 @@
 <!-- class number start here  -->
 
 - <mark> **Class : 01**  Introduction to Web Design</mark>
-> - What is Web Desing
-> - Why Should you Learn  Web Design 
+> - What is Web Desing ?
+> - Why Should you Learn  Web Design ?
+> - What can You do after learning web design ?
+> - What is Frontend & What is backend ?
+### Web Design Foundation Skill 
+> - HTML5
+> - CSS3
+> - Javascipt 
+> - Bootstrap or Tailwind Css 
+> - Jquery 
+> - SASS or SCSS
+> - Learn Animation 
+### Tools to Learn 
+> - Text Editor: VS Code, Sublime Text.
+> - Browser Developer Tools: Chrome DevTools, Firefox DevTools.
+<!-- class no end hre  -->
+
+<br>
+<br>
+<br>
+
+<!-- class number start here  -->
+
+- <mark> **Class : 02**  Introduction to Web Design</mark>
+### Web Design Foundation Skill 
+> - What is Web Desing ?
+> - Why Should you Learn  Web Design ?
+> - What can You do after learning web design ?
+> - What is Frontend & What is backend ?
+### Web Design Foundation Skill 
 
 <!-- class no end hre  -->
