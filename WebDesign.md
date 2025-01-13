@@ -17,7 +17,7 @@
 
 <!-- class number start here  -->
 
-- <mark> **Class : 01**  Introduction to Web Design</mark>
+<mark> **Class : 01**  Introduction to Web Design</mark>
 > - What is Web Desing ?
 > - Why Should you Learn  Web Design ?
 > - What can You do after learning web design ?
@@ -41,12 +41,69 @@
 
 <!-- class number start here  -->
 
-- <mark> **Class : 02**  Introduction to Web Design</mark>
+<mark> **Class : 02**  HTML Introduction </mark>
+### HTML Introduction
+> - Create Your First Project Folder  
+> - Create Your First File and open to your code editor   
+> - Test This file working or not ?  
+> - HTML Home 
+> - HTML Introduction 
+> - HTML Structure Describe 
+
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 03** Heading , Paragraph , Elements  </mark>
+### HTML Heading & Paragraph & Elements 
+> - Intriduce HTML Heading   
+> - Intriduce HTML Paragraph 
+> - Intriduce HTML Elements 
+> - Create a Small Project  
+
 ### Web Design Foundation Skill 
-> - What is Web Desing ?
-> - Why Should you Learn  Web Design ?
-> - What can You do after learning web design ?
-> - What is Frontend & What is backend ?
-### Web Design Foundation Skill 
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 04** comment , image , anchor  </mark>
+### HTML comment & image & anchor 
+> - Intriduce HTML commenet    
+> - Intriduce HTML image 
+> - Intriduce HTML anchor 
+> - Create a Small Project  
+
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 05** attribute , formating , Quotations  </mark>
+### HTML comment & image & anchor 
+> - Intriduce HTML Attribute    
+> - Intriduce HTML formating tag 
+> - Intriduce HTML Quotations 
+> - Create a Small Project  
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 06** page title , link , style  </mark>
+### HTML Page title & Link  & Style  
+> - Create some pages and title intriduce    
+> - Create Page link  
+> - intriduce inline style 
+> - Create a Small Project  
 
 <!-- class no end hre  -->
