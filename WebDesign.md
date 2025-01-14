@@ -295,5 +295,62 @@
 > - CSS Navbar ,, varticale & Horizontal ----------
 > - CSS Dropdown
 
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 19** CSS Advance</mark>
+### CSS Advance Property  
+> - How to use Google Fonts Family 
+> - CSS Grid
+> - CSS Media Query
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 20** CSS Advance</mark>
+### CSS Advance Property  
+> - CSS Rounded Corner
+> - CSS Border Image
+> - CSS Background
+> - CSS Color & Color Keyword
+> - CSS Gradient 
+> - CSS Shadow & Text Shadow
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 21** CSS Advance</mark>
+### CSS Advance Property  
+> - CSS Variable
+> - CSS property
+> - CSS Flexbox
+> - CSS Multiple Column 
+> - CSS After & Befor
+
+<!-- class no end hre  -->
+<br>
+<br>
+<br>
+<!-- class number start here  -->
+
+<mark> **Class : 22** CSS Advance</mark>
+### CSS Advance Property  
+> - CSS Transform
+> - CSS Transitions
+> - CSS Animation
+> - CSS image Style 
+> - CSS image Shaps
+> - CSS image Filter
+> - CSS Button ---------- end
+
 
 <!-- class no end hre  -->
